@@ -1,0 +1,2 @@
+# app-ads.txt 2024-03-08
+google.com, pub-2703958412632708, DIRECT, f08c47fec0942fa0
